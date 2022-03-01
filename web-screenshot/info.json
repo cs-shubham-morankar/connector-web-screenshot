@@ -73,7 +73,7 @@
     {
       "operation": "take_screenshot",
       "title": "Take Screenshot",
-      "description": "Take screenshot",
+      "description": "Visit URL and take screenshot with Chrome",
       "category": "investigation",
       "annotation": "take_screenshot",
       "parameters": [
